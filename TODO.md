@@ -1,1 +1,0 @@
-# TODO for Login Fix\n✅ 1. Initialize DB with schema.sql\n✅ 2. Verify tables\n✅ 3. Run server with python3\n✅ 4. Test register/login\n\nLogin fixed! Server running at http://127.0.0.1:5000\n1. Go to http://127.0.0.1:5000/register to create account\n2. Then login at http://127.0.0.1:5000/login\nStudent-style simple code preserved.
